@@ -23,17 +23,17 @@ public class C04_IlkTest {
         String actualTitle= driver.getTitle();
         String istenenKelime="Amazon";
         if(actualTitle.contains(istenenKelime)){
-            System.out.println("PageSourse testi PASSED");
+            System.out.println("Title testi PASSED");
         }else
-            System.out.println("PageSourse tesi FAILED");
+            System.out.println("Title testi FAILED");
 
         //3)Url'nin Amazon icerdigini test ediniz
         String actualUrl=driver.getCurrentUrl();
         String arananKelime="Amazon";
         if(actualUrl.contains(arananKelime)){
-            System.out.println("PageSourse testi PASSED");
+            System.out.println("Url testi PASSED");
         }else
-            System.out.println("PageSourse tesi FAILED");
+            System.out.println("Url testi FAILED");
 
         // 4)Sayfayi kapatiniz.
         driver.close();

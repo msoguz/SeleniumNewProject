@@ -15,9 +15,9 @@ public class C02_DriverMethodlari {
        // System.out.println(driver.getPageSource()); //Sayfadaki kaynak kodlarini verir.
         String istenenKelime="Gateway";
         if(driver.getPageSource().contains(istenenKelime)){
-            System.out.println("PageSourse testi PASSED");
+            System.out.println("PageSource testi PASSED");
         }else
-            System.out.println("PageSourse tesi FAILED");
+            System.out.println("PageSource testi FAILED");
 
         driver.close();// Acilan sayfayi kapatir.
         //driver.quit();// Birden fazla sayfa varsa hepsini kapatir.

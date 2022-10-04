@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2afc088-7473-4026-88a9-23859f1d97bc" name="Changes" comment="v1">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/P01_FirstClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/W01_GetMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/W02_NavigationMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/W03_ManageWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/W04_ManageWindowSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/W05_Homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/W06_TekrarTesti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/W07_LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/W08_AmazonSearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/practice/P01_FirstClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/practice/W01_GetMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/practice/W02_NavigationMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/practice/W03_ManageWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/practice/W04_ManageWindowSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/practice/W05_Homework.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/practice/W06_TekrarTesti.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/practice/W07_LoginTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/practice/W08_AmazonSearchTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day01/C02_DriverMethodlari.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day01/C02_DriverMethodlari.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day01/C04_IlkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day01/C04_IlkTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day02/C05_Locators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day02/C05_Locators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day01/C02_DriverMethodlari.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day01/C02_DriverMethodlari.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day01/C04_IlkTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day01/C04_IlkTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day02/C05_Locators.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day02/C05_Locators.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ELXOqVCZCwlgJXVg4KtYXrtbFa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/SeleniumNewProject/src/resources/libraries/selenium-support-4.4.0.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\SeleniumNewProject\src\resources\libraries" />
+      <recent name="C:\SeleniumNewProject\src\resources\drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.W08_AmazonSearchTest">
+    <configuration name="W07_LoginTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.W07_LoginTest" />
+      <module name="SeleniumNewProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="W08_AmazonSearchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.W08_AmazonSearchTest" />
+      <module name="SeleniumNewProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practice.W04_ManageWindowSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.W04_ManageWindowSet" />
+      <module name="SeleniumNewProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practice.W05_Homework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.W05_Homework" />
+      <module name="SeleniumNewProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practice.W06_TekrarTesti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.W06_TekrarTesti" />
+      <module name="SeleniumNewProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.W08_AmazonSearchTest" />
+        <item itemvalue="Application.W07_LoginTest" />
+        <item itemvalue="Application.practice.W06_TekrarTesti" />
+        <item itemvalue="Application.practice.W05_Homework" />
+        <item itemvalue="Application.practice.W04_ManageWindowSet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2afc088-7473-4026-88a9-23859f1d97bc" name="Changes" comment="" />
+      <created>1662375811432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662375811432</updated>
+    </task>
+    <task id="LOCAL-00001" summary="v1">
+      <created>1663353109302</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663353109302</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1" />
+  </component>
+</project>
