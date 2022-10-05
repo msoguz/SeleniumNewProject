@@ -5,32 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2afc088-7473-4026-88a9-23859f1d97bc" name="Changes" comment="v1">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/P01_FirstClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/W01_GetMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/W02_NavigationMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/W03_ManageWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/W04_ManageWindowSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/W05_Homework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/W06_TekrarTesti.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/W07_LoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/W08_AmazonSearchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/practice/P01_FirstClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/practice/W01_GetMethods.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/practice/W02_NavigationMethods.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/practice/W03_ManageWindow.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/practice/W04_ManageWindowSet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/practice/W05_Homework.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/practice/W06_TekrarTesti.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/practice/W07_LoginTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/practice/W08_AmazonSearchTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day01/C02_DriverMethodlari.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day01/C02_DriverMethodlari.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day01/C04_IlkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day01/C04_IlkTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day02/C05_Locators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day02/C05_Locators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day01/C02_DriverMethodlari.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day01/C02_DriverMethodlari.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day01/C04_IlkTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day01/C04_IlkTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day02/C05_Locators.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day02/C05_Locators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,38 +33,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/SeleniumNewProject/src/resources/libraries/selenium-support-4.4.0.jar",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/SeleniumNewProject/src/resources/libraries/selenium-support-4.4.0.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\SeleniumNewProject\src\resources\libraries" />
       <recent name="C:\SeleniumNewProject\src\resources\drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.W08_AmazonSearchTest">
-    <configuration name="W07_LoginTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.W07_LoginTest" />
-      <module name="SeleniumNewProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.W12_RelativeLocators">
     <configuration name="W08_AmazonSearchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.W08_AmazonSearchTest" />
       <module name="SeleniumNewProject" />
@@ -103,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practice.W04_ManageWindowSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.W04_ManageWindowSet" />
+    <configuration name="W09_Homework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.W09_Homework" />
       <module name="SeleniumNewProject" />
       <extension name="coverage">
         <pattern>
@@ -116,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practice.W05_Homework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.W05_Homework" />
+    <configuration name="W10_LocatorsCssSelector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.W10_LocatorsCssSelector" />
       <module name="SeleniumNewProject" />
       <extension name="coverage">
         <pattern>
@@ -129,8 +91,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practice.W06_TekrarTesti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.W06_TekrarTesti" />
+    <configuration name="W11_TekrarTesti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.W11_TekrarTesti" />
+      <module name="SeleniumNewProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="W12_RelativeLocators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.W12_RelativeLocators" />
       <module name="SeleniumNewProject" />
       <extension name="coverage">
         <pattern>
@@ -144,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.W12_RelativeLocators" />
+        <item itemvalue="Application.W11_TekrarTesti" />
+        <item itemvalue="Application.W10_LocatorsCssSelector" />
+        <item itemvalue="Application.W09_Homework" />
         <item itemvalue="Application.W08_AmazonSearchTest" />
-        <item itemvalue="Application.W07_LoginTest" />
-        <item itemvalue="Application.practice.W06_TekrarTesti" />
-        <item itemvalue="Application.practice.W05_Homework" />
-        <item itemvalue="Application.practice.W04_ManageWindowSet" />
       </list>
     </recent_temporary>
   </component>
